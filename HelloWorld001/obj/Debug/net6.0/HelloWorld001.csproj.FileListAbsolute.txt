@@ -1,0 +1,15 @@
+C:\Users\komkr\source\repos\HelloWorld001\bin\Debug\net6.0\HelloWorld001.exe
+C:\Users\komkr\source\repos\HelloWorld001\bin\Debug\net6.0\HelloWorld001.deps.json
+C:\Users\komkr\source\repos\HelloWorld001\bin\Debug\net6.0\HelloWorld001.runtimeconfig.json
+C:\Users\komkr\source\repos\HelloWorld001\bin\Debug\net6.0\HelloWorld001.dll
+C:\Users\komkr\source\repos\HelloWorld001\bin\Debug\net6.0\ref\HelloWorld001.dll
+C:\Users\komkr\source\repos\HelloWorld001\bin\Debug\net6.0\HelloWorld001.pdb
+C:\Users\komkr\source\repos\HelloWorld001\obj\Debug\net6.0\HelloWorld001.csproj.AssemblyReference.cache
+C:\Users\komkr\source\repos\HelloWorld001\obj\Debug\net6.0\HelloWorld001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\komkr\source\repos\HelloWorld001\obj\Debug\net6.0\HelloWorld001.AssemblyInfoInputs.cache
+C:\Users\komkr\source\repos\HelloWorld001\obj\Debug\net6.0\HelloWorld001.AssemblyInfo.cs
+C:\Users\komkr\source\repos\HelloWorld001\obj\Debug\net6.0\HelloWorld001.csproj.CoreCompileInputs.cache
+C:\Users\komkr\source\repos\HelloWorld001\obj\Debug\net6.0\HelloWorld001.dll
+C:\Users\komkr\source\repos\HelloWorld001\obj\Debug\net6.0\ref\HelloWorld001.dll
+C:\Users\komkr\source\repos\HelloWorld001\obj\Debug\net6.0\HelloWorld001.pdb
+C:\Users\komkr\source\repos\HelloWorld001\obj\Debug\net6.0\HelloWorld001.genruntimeconfig.cache
